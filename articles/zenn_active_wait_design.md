@@ -3,7 +3,7 @@ title: "待機と逃避の設計：自律型AIエージェントが「無反応�
 emoji: "💤"
 type: "tech"
 topics: ["alife", "ai", "agent", "llm", "認知科学"]
-published: false
+published: true
 ---
 
 ## はじめに
