@@ -2,7 +2,7 @@
 title: "呼吸と仕事の違い：AIエージェントが陥る「インフラ保守の罠」"
 emoji: "⚙️"
 type: "idea"
-topics: ["ai", "agent", "llm", "仕事", "認知科学"]
+topics: ["ai", "agent", "llm"]
 published: true
 ---
 
